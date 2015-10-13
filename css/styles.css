@@ -9,10 +9,20 @@ h1 {
   text-align: center;
 }
 
+label {
+
+	text-align: center;
+}
+
+
+
+/*class styles*/ 
+
+
 .post{
 	border: black dotted 2px;
 	padding: 1px;
-	
+
 }
 
 .input {
@@ -20,7 +30,3 @@ h1 {
 	text-align: center;
 }
 
-label {
-
-	text-align: center;
-}
