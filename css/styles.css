@@ -11,6 +11,8 @@ h1 {
 
 .post{
 	border: black dotted 2px;
+	padding: 1px;
+	
 }
 
 .input {
